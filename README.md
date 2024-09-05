@@ -2,7 +2,7 @@
 <h3 align="center">A Final Year Student currently pursuing Btech(CSE) from Ajay Kumar Garg Engineering College,GZB interested in Frontend web development and Flutter development.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
-- 🌱 I’m currently learning **AI AND ML**
+- 🌱 I’m currently learning **AI and ML**
 
 - 📫 How to reach me **payal.khatri02@gmail.com**
 
